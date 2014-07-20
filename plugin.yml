@@ -1,0 +1,9 @@
+name: BugReporter
+main: com.SinfulPixel.HTB.HTB
+version: 1.0
+description: MySQL Based BugReporting.
+author: Min3CraftDud3
+website: http://www.SinfulPixel.com
+commands:
+  report:
+    description: "Usage: /report <Detailed Bug Report>  Submit Heroes Bugs."
