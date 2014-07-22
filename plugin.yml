@@ -5,5 +5,5 @@ description: MySQL Based BugReporting.
 author: Min3CraftDud3
 website: http://www.SinfulPixel.com
 commands:
-  report:
+  heroreport:
     description: "Usage: /report <Detailed Bug Report>  Submit Heroes Bugs."

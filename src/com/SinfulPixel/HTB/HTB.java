@@ -72,7 +72,7 @@ public class HTB extends JavaPlugin {
     }
     @Override
     public boolean onCommand(CommandSender sender, Command command,String label, String[] args) {
-        if(label.equalsIgnoreCase("report")){
+        if(label.equalsIgnoreCase("heroreport")){
             if(sender instanceof Player){
                 Player p = (Player)sender;
                 if(args.length==0){
