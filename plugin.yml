@@ -6,4 +6,4 @@ author: Min3CraftDud3
 website: http://www.SinfulPixel.com
 commands:
   heroreport:
-    description: "Usage: /report <Detailed Bug Report>  Submit Heroes Bugs."
+    description: "Usage: /heroreport <Detailed Bug Report>  Submit Heroes Bugs."
