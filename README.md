@@ -10,6 +10,7 @@ look.php + image files are for web interface. You will need to edit the look.php
 Modify MySQL info in db_const.php
 
 Permissions required for heroes team members: HTB.CanReceiveReports
+
 Command in-game: /heroreport
 
 How it works:
