@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e8d4f6f-233d-4860-a75d-13e6d0c526a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-    </list>
+    <list default="true" id="0e8d4f6f-233d-4860-a75d-13e6d0c526a8" name="Default" comment="" />
     <ignored path="HeroesTeamBugPlugin.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -151,16 +149,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="HeroesTeamBugPlugin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeroesTeamBugPlugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeroesTeamBugPlugin" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -413,7 +401,7 @@
       <updated>1405819336476</updated>
       <workItem from="1405819354745" duration="9580000" />
       <workItem from="1405891245434" duration="337000" />
-      <workItem from="1405891600670" duration="83000" />
+      <workItem from="1405891600670" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1405891403336</created>
@@ -427,7 +415,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10000000" />
+    <option name="totallyTimeSpent" value="10653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
