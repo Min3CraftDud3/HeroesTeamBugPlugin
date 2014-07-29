@@ -16,7 +16,7 @@ Command in-game: /heroreport
 
 How it works:
 
-* Player on the server uses command /report <bug report>.
+* Player on the server uses command /heroreport <bug report>.
 * Server sends the report along with player UUID and name to a MySQL database.
 * Website reads from database and displays playername and bug reports.
 
