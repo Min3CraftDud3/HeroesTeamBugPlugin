@@ -5,7 +5,7 @@ Plugin + Web Interface for Atherys Heroes Team
 
 The files to use are located in the "out" folder.
 HTB.jar = plugin.
-look.php + image files are for web interface. You will need to edit the look.php file and add your MySQL information.
+WebInterface = files for website.
 
 Modify MySQL info in db_const.php
 
